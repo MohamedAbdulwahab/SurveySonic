@@ -1,0 +1,4 @@
+server/node_modules
+server/config/.env
+server/config/key.js
+.DS_Store
